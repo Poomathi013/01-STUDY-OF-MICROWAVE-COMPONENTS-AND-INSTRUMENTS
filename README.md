@@ -25,8 +25,11 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 # Observation: ( Include your own Table relevant to the Experiment)
 
 Identify the components/devices.
+
 Study basic principle of operation of devices and components.
+
 Know typical application of each component.
+
 Identify the E field and H field mode patterns in these devices.
 
 
@@ -38,18 +41,31 @@ Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane T
 # LIST OF EQUIPMENTS AND DEVICES TO BE STUDIED:
 
 1.Klystron Power Supply
+
 2.Klystron tube
+
 3.Isolator
+
 4.Circulator
+
 5.Attenuator
+
 6.Direct reading frequency meter
+
 7.Slotted line section with probe carriage
+
 8.Crystal Detector
+
 9.VSWR Meter
+
 10.Different types of Antennas available
+
 11.Magic tee
+
 12.E and H Plane Tee
+
 13.Matched Termination
+
 14.Waveguide to coaxial adapter
 
 # Conclusions:
